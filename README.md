@@ -17,3 +17,8 @@ Karakteristik App State, yaitu:
 4. Shareable
 5. Unit test business logic
 Bentuk ini cocok untuk _user authentication_, _shopping cart_, maupun _settings_ karena memerlukan kebutuhan yang sama untuk mengakses atau tampilan tiap lamannya.
+
+**Cheatsheets:**
+_who needs it?_
+Single widget -> Ephemeral State
+Most widgets/some widgets -> App State
